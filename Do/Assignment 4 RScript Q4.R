@@ -13,3 +13,8 @@ rdplotdensity(rddens, bac1, title = "Density test", xlabel = "BAC")
 
 hist(bac1, breaks=1000, main="BAC Histogram", xlab="BAC")
 abline(v=0.08,col="red")
+abline(v=0.15,col="blue")
+
+summary(rddensity(hansen_dwi$bac1, c=0.15, p=2))
+rddens2 <- rddensity(hansen_dwi$bac1, c=0.15, p=2)
+rdplotdensity(rddens2, bac1, title = "Density test", xlabel = "BAC")
