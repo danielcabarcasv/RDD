@@ -1,0 +1,12 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Male	White	Age	Accident
+					
+D	DUI threshold	0.00733**	0.0129***	-1.412***	-0.00535**
+		(0.00297)	(0.00258)	(0.0845)	(0.00230)
+Constant	Constant	0.785***	0.844***	35.46***	0.116***
+		(0.00268)	(0.00233)	(0.0763)	(0.00207)
+					
+Observations		124,642	124,642	124,642	124,642
+R-squared		0.000	0.000	0.002	0.000
+Standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

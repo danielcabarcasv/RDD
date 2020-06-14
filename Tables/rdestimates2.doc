@@ -1,0 +1,34 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2016\clbrdrt\brdrs\cellx3888\clbrdrt\brdrs\cellx5760\clbrdrt\brdrs\cellx7632
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3888\cellx5760\cellx7632
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3888\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7632
+\ql VARIABLES\cell\qc Linear BAC\cell\qc BAC*DUI\cell\qc BAC*DUI2\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3888\cellx5760\cellx7632
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql DUI threshold\cell\qc -0.0219***\cell\qc -0.0643*\cell\qc -0.0395***\cell\row
+\ql \cell\qc (0.00558)\cell\qc (0.0345)\cell\qc (0.0147)\cell\row
+\ql BAC\cell\qc 0.188\cell\qc -0.196\cell\qc -0.207\cell\row
+\ql \cell\qc (0.201)\cell\qc (0.367)\cell\qc (0.367)\cell\row
+\ql bac1D\cell\qc \cell\qc 0.547\cell\qc \cell\row
+\ql \cell\qc \cell\qc (0.439)\cell\qc \cell\row
+\ql Male\cell\qc 0.0357***\cell\qc 0.0357***\cell\qc 0.0357***\cell\row
+\ql \cell\qc (0.00348)\cell\qc (0.00348)\cell\qc (0.00348)\cell\row
+\ql White\cell\qc 0.0176***\cell\qc 0.0176***\cell\qc 0.0176***\cell\row
+\ql \cell\qc (0.00397)\cell\qc (0.00397)\cell\qc (0.00397)\cell\row
+\ql Age\cell\qc -0.000756***\cell\qc -0.000758***\cell\qc -0.000758***\cell\row
+\ql \cell\qc (0.000122)\cell\qc (0.000122)\cell\qc (0.000122)\cell\row
+\ql Accident\cell\qc 0.00431\cell\qc 0.00422\cell\qc 0.00422\cell\row
+\ql \cell\qc (0.00491)\cell\qc (0.00491)\cell\qc (0.00491)\cell\row
+\ql bac12D\cell\qc \cell\qc \cell\qc 3.019\cell\row
+\ql \cell\qc \cell\qc \cell\qc (2.346)\cell\row
+\ql Constant\cell\qc 0.0862***\cell\qc 0.113***\cell\qc 0.114***\cell\row
+\ql \cell\qc (0.0156)\cell\qc (0.0267)\cell\qc (0.0267)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 46,957\cell\qc 46,957\cell\qc 46,957\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3888\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7632
+\ql R-squared\cell\qc 0.004\cell\qc 0.004\cell\qc 0.004\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
